@@ -1,3 +1,5 @@
+package nested_loop;
+
 public class infinate_loop {
     public static void main(String[] args) {
 
